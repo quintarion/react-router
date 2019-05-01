@@ -5,6 +5,7 @@ import '../App.css';
 const Home = () => {
     return (
         <div>
+            <p>Bienvenue sur la page d'accueil</p>
             <img src="https://s-i.huffpost.com/gen/960941/thumbs/s-CERVEAUSHADOK-400x400.jpg?15" alt=""/>
 
             <Link to={'/history'} activeStyle={{color: "red"}}>Cliquez ici pour aller sur la page 'History'</Link>

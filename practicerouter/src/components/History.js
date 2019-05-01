@@ -5,6 +5,7 @@ import '../App.css';
 const History = () => {
     return (
         <div>
+            <h1>Notre histoire</h1>
             <p>Once a pon a time ...</p>
             <img src="https://medias.liberation.fr/photo/1117194-capture.jpg?modified_at=1524846171&width=750" alt="" />
 
